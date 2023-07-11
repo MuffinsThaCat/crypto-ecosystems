@@ -115,6 +115,7 @@ sub_ecosystems = [
   "RUGenerous",
   "Scion",
   "Sherpa Cash",
+  "Shuttle"
   "simplefi",
   "SmartCoin",
   "Snowball",
@@ -1960,6 +1961,9 @@ url = "https://github.com/shielddaodapp/ShieldDao"
 
 [[repo]]
 url = "https://github.com/Shungy/cryptofrens-contracts"
+
+[[repo]]
+url = "https://github.com/Shuttle-VM/Shuttlecock"
 
 [[repo]]
 url = "https://github.com/Shungy/ThisTartanDoesNotExist"
